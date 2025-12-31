@@ -1,7 +1,5 @@
-## Hi there 👋💖
-## About Me
-
-👋 Hello! I’m **@Moniica990**, deeply passionate about **AI & Machine Learning**.
+## Hi, I'm Moniica👋💖
+I’m deeply passionate about **AI & Machine Learning**.
 
 I primarily focus on **hands-on work**, with experience in **Machine Learning, Deep Learning, and Natural Language Processing**. I have a strong foundation in **Computer Vision**, gained through building **neural networks from scratch** and developing **real-time CV models**.
 
